@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# olá meu nome é samuel 👋
+### estou estudando desenvolvimento de sistemas
 <!--
 **samuel200807/samuel200807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
